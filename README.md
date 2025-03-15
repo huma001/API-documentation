@@ -1,10 +1,10 @@
-# API-documentation
-# Overview
+# Razzaq.net
 Razzaq provides a suite of APIs to support property listing, search, and marketing for rental properties. It serves users, real estate agents, landlords, and developers. The platform supports advanced search, user authentication, listing management, and analytics.
 # Authentication
-<Br> •	API Key: Required for access to any endpoint.
-<Br> •	Endpoint: /api/auth/login
-1. Method: POST
-2. Parameters:
-         <Br> 	username: string
-         <Br> 	password: string
+
+- API Key: Required for access to any endpoint.
+- Endpoint: /api/auth/login
+- Method: POST
+- Parameters:
+   1. username: string
+   2. password: string

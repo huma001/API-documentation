@@ -8,6 +8,7 @@ Razzaq provides a suite of APIs to support property listing, search, and marketi
 - Parameters:
    1. username: string
    2. password: string
+   
 # Endpoints
 ### 1.	Get Property Listings
 - Endpoint: /api/listings
